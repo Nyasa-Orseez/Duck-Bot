@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobtest1.aternos.me",
-    "port": 27586,
+    "ip": "RCMS4.aternos.me",
+    "port": 25780,
     "version": "",
     "try-creative": false
   },
